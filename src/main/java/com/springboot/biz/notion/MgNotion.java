@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 @Setter
 @Entity
 public class MgNotion {
-
+//fdffad
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "noticeSeq")
